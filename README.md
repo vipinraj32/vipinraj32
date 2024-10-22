@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vipendrara81727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipendrara81727" height="30" width="40" /></a>
+<a href="https://x.com/FlexDev_Vipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipendrara81727" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vipin-rajpoot-2b019b261?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b1n1tndg%2ftoutciso4unjma%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipin-rajpoot-2b019b261?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b1n1tndg%2ftoutciso4unjma%3d%3d" height="30" width="40" /></a>
 <a href="https://medium.com/vipendrarajpoot2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vipendrarajpoot2" height="30" width="40" /></a>
 </p>
