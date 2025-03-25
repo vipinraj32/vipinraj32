@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinraj32&label=Profile%20views&color=0e75b6&style=flat" alt="vipinraj32" /> </p>
 
-<p align="left"> <a href="https://x.com/FlexDev_Vipin" target="blank"><img src="https://img.shields.io/twitter/follow/vipendrara81727?logo=twitter&style=for-the-badge" alt="vipendrara81727" /></a> </p>
+<p align="left"> <a href="https://x.com/0xVipin" target="blank"><img src="https://img.shields.io/twitter/follow/vipendrara81727?logo=twitter&style=for-the-badge" alt="0xVipin" /></a> </p>
 
 - 🌱 I’m currently learning **web3**
 
