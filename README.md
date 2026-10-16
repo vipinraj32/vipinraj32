@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://x.com/0xVipin" target="blank"><img src="https://img.shields.io/twitter/follow/0xVipin?logo=twitter&style=for-the-badge" alt="0xVipin" /></a> </p>
 
-- 🌱 I’m currently learning **AI**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/0xVipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xVipin" height="30" width="40" /></a>
