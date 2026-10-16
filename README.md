@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Vipin Singh</h1>
-<h3 align="center">Backend Developer|| web3 enthusiastic</h3>
+<h3 align="center">Backend Developer|| AI enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinraj32&label=Profile%20views&color=0e75b6&style=flat" alt="vipinraj32" /> </p>
 
 <p align="left"> <a href="https://x.com/0xVipin" target="blank"><img src="https://img.shields.io/twitter/follow/0xVipin?logo=twitter&style=for-the-badge" alt="0xVipin" /></a> </p>
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
